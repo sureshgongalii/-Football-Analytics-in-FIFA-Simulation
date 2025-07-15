@@ -332,18 +332,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Suresh Gongali**
 - GitHub: [@sureshgongalii](https://github.com/sureshgongalii)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - FIFA 20 dataset providers
 - Open source community for the amazing tools and libraries
 - Football analytics community for inspiration and insights
 
-## 📞 Contact
+## Contact
 
 For questions or suggestions, please open an issue on GitHub or contact the author directly.
 
 ---
-🙋‍♂️ About Me
 I’m Gongali Suresh, a self-motivated data science and machine learning enthusiast with hands-on experience in real-world projects. I’m currently seeking a challenging position in Data Science and Machine Learning where I can apply my knowledge and keep learning.
 
 ⭐ If you found this project helpful, please give it a star!
