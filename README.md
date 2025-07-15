@@ -288,7 +288,7 @@ During the data preprocessing and clustering phases, several challenges emerged 
 
 **Rationale**: Using multiple evaluation techniques **ensures a robust choice of `k`**, reducing **arbitrary decision-making** and improving **clustering stability**.
 
-## 🔍 Usage Examples
+##  Usage Examples
 
 ### Loading the Dataset
 ```python
@@ -308,26 +308,26 @@ with open('best_model.pkl', 'rb') as file:
 ### Viewing the EDA Report
 Open `SWEETVIZ_REPORT.html` in your web browser to explore the interactive data analysis report.
 
-## 📝 Results
+##  Results
 
 The project successfully:
-- ✅ Analyzed 18,000+ FIFA 20 player records
-- ✅ Built and compared multiple predictive models for player market values
-- ✅ Achieved 99% accuracy with XGBoost Regressor (R² = 0.990)
-- ✅ Generated comprehensive data quality reports
-- ✅ Identified key performance indicators for football players
-- ✅ Created visualizations for data-driven insights
-- ✅ Implemented effective clustering for player segmentation
+- Analyzed 18,000+ FIFA 20 player records
+- Built and compared multiple predictive models for player market values
+- Achieved 99% accuracy with XGBoost Regressor (R² = 0.990)
+- Generated comprehensive data quality reports
+- Identified key performance indicators for football players
+- Created visualizations for data-driven insights
+- Implemented effective clustering for player segmentation
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
+## Author
 
 **Suresh Gongali**
 - GitHub: [@sureshgongalii](https://github.com/sureshgongalii)
@@ -343,5 +343,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or suggestions, please open an issue on GitHub or contact the author directly.
 
 ---
+🙋‍♂️ About Me
+I’m Gongali Suresh, a self-motivated data science and machine learning enthusiast with hands-on experience in real-world projects. I’m currently seeking a challenging position in Data Science and Machine Learning where I can apply my knowledge and keep learning.
 
 ⭐ If you found this project helpful, please give it a star!
